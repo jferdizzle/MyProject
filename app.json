@@ -1,0 +1,15 @@
+{
+  "name": "Story_WebTemplate",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
