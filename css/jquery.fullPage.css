@@ -20,6 +20,7 @@ position: relative;
 /* IE 11 on Windows Phone 8.1*/
 touch-action: none;
 }
+
 .fp-section {
 position: relative;
 -webkit-box-sizing: border-box; /* Safari<=5 Android<=3 */
